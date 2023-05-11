@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diagramapp/static/css/main.dc31100f.css",
+    "main.js": "/diagramapp/static/js/main.92b43120.js",
+    "index.html": "/diagramapp/index.html",
+    "main.dc31100f.css.map": "/diagramapp/static/css/main.dc31100f.css.map",
+    "main.92b43120.js.map": "/diagramapp/static/js/main.92b43120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc31100f.css",
+    "static/js/main.92b43120.js"
+  ]
+}
